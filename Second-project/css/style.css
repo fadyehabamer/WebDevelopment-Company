@@ -463,6 +463,11 @@ footer .subscribe-btn-2 {
       transform: translateY(0px);
       margin: 30px 0;
     }
+    .statistics div{
+      flex-wrap: wrap;
+      /* display: block !important; */
+
+    }
     .contact-us p{
       padding: 0 50px;
     }
